@@ -17,13 +17,7 @@ Key capabilities include:
 - Red color-based circle detection to find speed signs  
 - OCR (Optical Character Recognition) using Tesseract for digit extraction  
 - Visualization of detected signs with bounding boxes and speed labels  
-- Automatic cooldown mechanism to avoid duplicate detections  
-
----
-
-## 📸 Demo
-
-> ![Demo GIF or Image Placeholder](link-to-demo-gif-or-image-if-you-have-one)
+- Automatic cooldown mechanism to avoid duplicate detections
 
 ---
 
